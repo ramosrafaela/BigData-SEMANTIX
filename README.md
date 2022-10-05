@@ -2,7 +2,7 @@
 
 <br>
 <p align="center">
-  <img src="https://github.com/ramosrafaela/BigData-SEMANTIX/figures/semantixlogo.png" />
+  <img src="figures/semantixlogo.png"/>
 </p>
 
 <h1 align="center"> BigData Science - SEMANTIX  </h1>
