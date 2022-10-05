@@ -121,4 +121,4 @@ Aqui irei subir todos os exercícios que realizei ao longo da trilha de BigData 
 - ``Spark``
 - ``SQL``
 - ``python``
-- ``jupyter notebook```
+- ``jupyter notebook``
